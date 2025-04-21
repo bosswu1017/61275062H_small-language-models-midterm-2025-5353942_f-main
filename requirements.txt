@@ -1,0 +1,10 @@
+
+jupyter
+ipywidgets
+matplotlib
+numpy
+scipy
+pandas
+tqdm
+
+    
